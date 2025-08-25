@@ -214,7 +214,7 @@ _Beat the algorithms! Ensemble models + real-time data scraping for optimal FPL 
 
 _Multi-agent system: Research → Content → SEO → Deploy. Fully autonomous blog generation platform_
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Industry--Pulse-blue?style=for-the-badge)]
+![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Industry--Pulse-blue?style=for-the-badge)
 [![Beta](https://img.shields.io/badge/🚀_Beta_Release-Soon-purple?style=for-the-badge)](#)
 
 **Tech:** `FastAPI` `React` `WebSocket` `OpenAI GPT-4o` • **Magic:** Watch AI agents collaborate live!
