@@ -344,8 +344,7 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ibrahim-farrukh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammad.ibrahim.farrukh.gr@dartmouth.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
-🚀 Coming Soon!
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#) 🚀 Coming Soon!
 
 ### 💬 I Love Discussing
 
@@ -359,7 +358,7 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 ### 🎵 Currently Coding To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)]((https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc?si=2b534e449c0a40a2)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc?si=2b534e449c0a40a2)
 
 ### ✨ Daily Motivation
 
